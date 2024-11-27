@@ -1,0 +1,16 @@
+{
+    "max_threads": 1,
+    "enable_ref_code": false,
+    "enable_tasks": false,
+    "enable_daily_claim": true,
+    "enable_auto_fishing": true,
+    "enable_tutorial": true,
+    "enable_auto_sell": true,
+    "enable_auto_buy_sushi": true,
+    "ref_code": "",
+    "fishing_energy_limit": 0,
+    "min_gold_for_sushi": 500,
+    "auto_fishing_ranges": ["long_range"],
+    "delay_between_fishing": [2, 4],
+    "delay_between_accounts": [2, 5]
+}
