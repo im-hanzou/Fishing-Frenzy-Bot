@@ -9,6 +9,9 @@
 1. [922proxy](https://www.922proxy.com/register?inviter_code=d03d4fed)
 2. [Proxy-Cheap](https://app.proxy-cheap.com/r/JysUiH)
 3. [Infatica](https://dashboard.infatica.io/aff.php?aff=544)
+# How to Get Telegram QUERY HASH
+- Get Telegram Query Hash: [YouTube](https://www.youtube.com/watch?v=RrGDPdhoAYI&ab_channel=CryptoFarmers%F0%9F%91%A8%E2%80%8D%F0%9F%8C%BE)
+- Paste hash to file ``query.txt`` perlines
 # Setup Tutorial
 - Install Python For Windows: [Python](https://www.python.org/ftp/python/3.13.0/python-3.13.0-amd64.exe)
 - For Unix: ``apt install python3 python3-pip -y``
