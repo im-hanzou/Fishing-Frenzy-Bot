@@ -90,7 +90,7 @@ class ThreadSafeLogger:
 
 class ProxyManager:
     def __init__(self, logger=None):
-        self.proxy_file = 'proxy.txt'
+        self.proxy_file = 'proxies.txt'
         self.proxies = []
         self.current_index = 0
         self.lock = Lock()
