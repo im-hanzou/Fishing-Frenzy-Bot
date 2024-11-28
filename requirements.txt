@@ -1,5 +1,6 @@
 requests
 colorama
-websockets
+websockets==12.0
 urllib3
 websocket-client
+websockets_proxy
